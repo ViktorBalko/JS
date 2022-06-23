@@ -42,6 +42,7 @@ const boxSizeInput = prompt('Enter box size');
 // console.log(boxSize);
 
 
+
 let boxSize;
 
 if (boxSizeInput >= 30 && boxSizeInput <= 49) {

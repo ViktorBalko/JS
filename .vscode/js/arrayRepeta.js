@@ -64,7 +64,6 @@ const lastInd = summer.length - 1;
    // більш декларативний код
 for (const summerItem of summer) {
         console.log(summerItem);
-    }
-
-
+}
+    
 
